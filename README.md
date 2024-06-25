@@ -1,19 +1,4 @@
-## Shih-Chun You 👋
-
-<!--
-**SCYou27/SCYou27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Shih-Chun You 👋
 <p>I already finished my Ph.D. program from the
 <a href="http://www.cl.cam.ac.uk/">Department of Computer Science and Technology</a>
 and
@@ -22,7 +7,7 @@ and
 <a href="https://www.cambridgetrust.org/scholarships/scholarship/?award=68">Cambridge Taiwan Scholarship</a>,<br>
 supervised by <a href="https://www.cl.cam.ac.uk/~mgk25/">Dr Markus Kuhn</a>.</p>
 
-<p><a href="resume.pdf">Resume</a></p>
+<p><a href="https://www.cl.cam.ac.uk/~scy27/resume.pdf">Resume</a></p>
 
 
 <h2 id="degrees">Other college degrees</h2>
@@ -48,7 +33,7 @@ Secure Hash Algorithm 3 (SHA-3), and lightweight cryptography algorithms.</p>
 <ul>
 
 <li>Shih-Chun You: <a href="https://doi.org/10.17863/CAM.100592">Single-trace template attacks on permutation-based cryptography</a>.
-PhD thesis, 2022, Apollo - University of Cambridge Repository (<a href="PhD_thesis.pdf">PDF file</a>).
+PhD thesis, 2022, Apollo - University of Cambridge Repository (<a href="https://www.cl.cam.ac.uk/~scy27/PhD_thesis.pdf">PDF file</a>).
 </li>
 <li>Shih-Chun You, Markus G. Kuhn, Sumanta Sarkar, Feng Hao:
 <a class=title href="https://doi.org/10.46586/tches.v2023.i4.344-366">Low Trace-Count Template Attacks on 32-bit Implementations of ASCON AEAD</a>
@@ -69,5 +54,5 @@ PhD thesis, 2022, Apollo - University of Cambridge Repository (<a href="PhD_thes
 
 <ul>
 <li><a href="https://www.linkedin.com/in/s-c-you-0498971bb/">LinkedIn: https://www.linkedin.com/in/s-c-you-0498971bb</a></li>
-<li><a href="https://github.com/SCYou27">GitHub: https://github.com/SCYou27</a><br>(Python code for my PhD projects)</li>
+<li><a href="https://www.cl.cam.ac.uk/~scy27/">Webpage in Cambridge: https://www.cl.cam.ac.uk/~scy27/</a><br></li>
 </ul>
