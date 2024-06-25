@@ -1,5 +1,5 @@
 # Shih-Chun You 👋
-<p>I already finished my Ph.D. program from the
+<p>I just finished my Ph.D. program from the
 <a href="http://www.cl.cam.ac.uk/">Department of Computer Science and Technology</a>
 and
 <a href="https://www.girton.cam.ac.uk/">Girton College</a>,<br>
